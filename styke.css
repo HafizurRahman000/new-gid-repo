@@ -1,0 +1,21 @@
+h3 {
+ color: blueviolet;
+ background-color: cyan;
+ font-size: 20px;
+ padding: 30px;
+ width: 40%;
+ display: flex;
+ text-align: center;
+}
+h1{
+    color: darkblue;
+    background-color: rgb(75, 146, 75);
+    padding: 25px;
+    width: 40%;
+}
+h2{
+    color: rgb(44, 44, 71);
+    background-color: rgb(3, 100, 84);
+    padding: 25px;
+    width: 40%;
+}
